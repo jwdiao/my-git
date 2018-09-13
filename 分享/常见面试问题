@@ -1,0 +1,23 @@
+1，圣杯布局 双飞翼布局  伪等高布局 粘连布局
+2，promise async函数的理解
+3，几种居中，清除浮动的方式和优缺点
+4，html5 css3新增（header,footer,article,canvas，video,audio..nth-child()）canvas!
+5，对this的理解 call apply bind
+6，get和post 请求的区别
+7，ajax的理解
+8，关于几种继承方式  原型继承 父类继承 组合继承。。。
+9，原型链的理解
+10，创建对象的几种方式
+11，http几种状态码及其含义1.。 2.。 3.。 4.。 5.。
+12,各个浏览器内核  以及对浏览器的理解   浏览器内核分为2种 js引擎 渲染引擎
+  IE浏览器	    Trident内核，也成为IE内核
+  Chrome浏览器	Webkit内核，现在是Blink内核
+  Firefox浏览器	Gecko内核，俗称Firefox内核
+  Safari浏览器	Webkit内核
+  Opera浏览器	最初是自己的Presto内核，后来加入谷歌大军，从Webkit又到了Blink内核；
+  360浏览器	    IE+Chrome双内核
+  猎豹浏览器	    IE+Chrome双内核
+  百度浏览器	    IE内核
+  QQ浏览器	    Trident（兼容模式）+Webkit（高速模式）
+ 13，浏览器兼容问题
+
